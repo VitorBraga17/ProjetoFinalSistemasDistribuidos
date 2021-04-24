@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="ServerB_jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerB_jar</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/../ServerB/out/artifacts/ServerB_jar/ServerB.jar" />
+    </root>
+  </artifact>
+</component>
