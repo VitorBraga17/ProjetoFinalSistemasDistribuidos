@@ -46,4 +46,4 @@ Para rodar no Windows, siga o seguinte passo a passo:
 * Abra outro Prompt de Comando;
 * entre no caminho onde foi baixado o projeto: cd caminhodoprojeto/ArquivosJar ;
 * execute o comando: java - jar Client.jar ;
-Após isso, Só executar utilizar nosso Client pelo Prompt Client.jar. 
+- Após isso, Só executar utilizar nosso Client pelo Prompt Client.jar. 
