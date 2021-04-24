@@ -35,8 +35,12 @@ O Protocolo é construído em 2 etapas, sendo elas:
  ## Como executar o projeto
 Para executar o projeto, é necessário:
  - JAVA SE RUNTIME em versão 15 ou superior.
- 
-Para rodar no Windows, siga o seguinte passo a passo:
+
+
+Para rodar no Windows, é só entrar na pasta que foi feito o download do projeto, acessar a pasta "ArquivosJar", e executar os itens:"ServerA.bat", "ServerB.bat" e "Client.bat".
+- Após isso, Só executar utilizar nosso cliente pela janela aberta pelo arquivo Client.
+
+Ou siga o seguinte passo a passo:
 *  Abra o Prompt de Comando;
 *  entre no caminho onde foi baixado o projeto: cd caminhodoprojeto/ArquivosJar ;
 * execute o comando: java - jar ServerA.jar ;
